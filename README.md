@@ -1,7 +1,7 @@
 <h1 align="center">灵魂深触 | AI & 全栈工程师</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=灵魂深触&show_icons=true&theme=radical" />
 </p>
 
 ## 🚀 About Me
@@ -53,11 +53,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=灵魂深触&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang516350902&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=灵魂深触&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yang516350902&theme=radical" />
 </p>
 
 ---
