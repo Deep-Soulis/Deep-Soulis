@@ -1,7 +1,7 @@
 <h1 align="center">灵魂深触 | AI & 全栈工程师</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=灵魂深触&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yang516350902&show_icons=true&theme=radical" />
 </p>
 
 ## 🚀 About Me
@@ -75,8 +75,12 @@
 ## 📬 Contact Me
 
 📧 **Email**: yang516350902@gmail.com 
+
 📌 **Website**: 懒得开发
+
 💼 **LinkedIn**: 不想给
+
 🐦 **Twitter**: 不告诉你  
+
 
 🚀 **代码即信仰，AI即未来！** 🚀
